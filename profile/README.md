@@ -1,2 +1,2 @@
-# Emerald
-A multi-purpose discord bot with many featues. Emerald is unfortunately not open source.
+# Project Gems
+We create onlime applications for services like Discord.
